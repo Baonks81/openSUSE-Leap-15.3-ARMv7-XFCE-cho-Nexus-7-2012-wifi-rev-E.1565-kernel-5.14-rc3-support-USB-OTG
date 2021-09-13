@@ -1,6 +1,4 @@
 # openSUSE-Leap-15.3-ARMv7-XFCE-cho-Nexus-7-2012-wifi-rev-E.1565-kernel-5.14-rc3-support-USB-OTG
-Linux on Nexus 7 2012
-
 Kỉ niệm hôm nay bắt đầu chích Vero Cell/Sinopharm cho dân, như đã hứa lên bài openSUSE-Leap-15.3-ARMv7-XFCE cho Nexus 7 2012 grouper rev e1565 kernel 5.14-rc3-next-grate
 
 
@@ -8,6 +6,14 @@ Kỉ niệm hôm nay bắt đầu chích Vero Cell/Sinopharm cho dân, như đã
 Link download trên Google drive
 
 
+
+openSUSE Leap 15.3 ARMv7 XFCE f2fs rootfs
+
+https://drive.google.com/drive/folders/1-VlUhCEQz3kVNNCRYISqfc1tXAkLhwrk?usp=sharing
+
+
+
+openSUSE Leap 15.3 ARMv7 XFCE ext4 rootfs
 
 https://drive.google.com/drive/folders/19ArXlOwX2xN8-SHjxPMzMQ-kj-Xkvbf0?usp=sharing
 
@@ -40,8 +46,6 @@ Do I have grouper or tilapia?
 
 
 TWRP (adb shell) $ grep androidboot.baseband=unknown /proc/cmdline && echo grouper || echo tilapia
-
-
 
 
 
@@ -230,7 +234,7 @@ NFC dùng được với neard
 
 
 
-Image source: http://download.opensuse.org/ports/armv7hl/distribution/leap/15.3/appliances/
+Image source: http://download.opensuse.org/ports/armv7hl/distribution/leap/15.3/appliances/openSUSE-Leap-15.3-ARM-XFCE.armv7-rootfs.armv7l-2021.05.31-Build8.1.tar.xz
 
 
 
