@@ -5,6 +5,9 @@ Kỉ niệm hôm nay bắt đầu chích Vero Cell/Sinopharm cho dân, như đã
 
 Link download trên Google drive
 
+openSUSE Leap 15.3/15.4 ARMv7 XFCE/LXQT/X11 kernel-5.15.0-rc4-next-20211011-postmarketos-grate
+
+https://drive.google.com/drive/u/0/folders/1iaBFiZp1S-fj7GV50AfGyvs8DFAubN4O
 
 
 openSUSE Leap 15.3 ARMv7 XFCE f2fs rootfs
